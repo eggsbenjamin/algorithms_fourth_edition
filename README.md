@@ -1,3 +1,3 @@
 # Algorithms Fourth Edition
 
-My attempts at exercises in the book
+My attempts at exercises in the book.
