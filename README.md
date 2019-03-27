@@ -1,1 +1,3 @@
-# Algorithms Fourth Edition\n\nMy attempts at excercises in the book
+# Algorithms Fourth Edition
+
+My attempts at exercises in the text-book.
