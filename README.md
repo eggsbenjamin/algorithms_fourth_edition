@@ -1,6 +1,6 @@
 ## Algorithms Fourth Edition
 
-My attempts at exercises in the text-book.
+My attempts at exercises in the textbook.
 
 ### Testing
 
